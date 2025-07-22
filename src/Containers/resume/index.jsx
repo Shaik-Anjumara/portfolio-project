@@ -86,10 +86,10 @@ const Resume = () => {
         </div>
       </div>
 
-      {/* Button at Bottom */}
+      {/* Button to View Resume */}
       <div className="resume__button-container">
         <a
-          href="/resume2.pdf"
+          href=" https://drive.google.com/file/d/1hClID81kp42LsAY_4fuiJagSN52qQIwi/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
         >
